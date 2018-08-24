@@ -16,7 +16,7 @@
     margin-top: 15px;
 }
 
-#app div{
+#app > div{
     height: 90vh;
     width: 330px;
     border: 2px solid white;
@@ -25,7 +25,7 @@
     border-radius: 50px;
 }
 
-form button{
+.form button{
     border: 0;
     border-radius: 10px;
     margin: 10px;
